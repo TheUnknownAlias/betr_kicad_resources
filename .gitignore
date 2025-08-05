@@ -1,0 +1,16 @@
+# KiCad temporary files
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*.pro.user
+*.rescue*
+*.tmp
+*.000
+*.net
+*.dsn
+*-cache.lib
+fp-info-cache
+
+# General ignore patterns
+.DS_Store
+Thumbs.db
