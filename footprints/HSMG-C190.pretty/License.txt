@@ -1,4 +1,4 @@
-BY ACCESSING OR USING THESE SYMBOLS & FOOTPRINTS ("MODELS"), YOU ARE ACKNOWLEDGING THAT YOU HAVE READ, FULLY UNDERSTAND AND AGREE TO THESE TERMS AND CONDITIONS (the "Agreement"), WHICH CONSTITUTE A BINDING AGREEMENT BETWEEN YOU AND SnapMagic Search, INC., ENTERED INTO ON THE DATE OF SUCH OCCURRENCE (the "Effective Date"). IF YOU ARE ACCESSING OR USING THESE FILES ON BEHALF OF AN ENTITY, YOU REPRESENT THAT YOU HAVE THE RIGHT, AUTHORITY, AND CAPACITY TO BIND SUCH ENTITY TO THIS AGREEMENT AND HEREBY DO SO. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS AGREEMENT, YOU MUST NOT USE ANY PART OF THESE MODELS.
+﻿BY ACCESSING OR USING THESE SYMBOLS & FOOTPRINTS ("MODELS"), YOU ARE ACKNOWLEDGING THAT YOU HAVE READ, FULLY UNDERSTAND AND AGREE TO THESE TERMS AND CONDITIONS (the "Agreement"), WHICH CONSTITUTE A BINDING AGREEMENT BETWEEN YOU AND SnapMagic Search, INC., ENTERED INTO ON THE DATE OF SUCH OCCURRENCE (the "Effective Date"). IF YOU ARE ACCESSING OR USING THESE FILES ON BEHALF OF AN ENTITY, YOU REPRESENT THAT YOU HAVE THE RIGHT, AUTHORITY, AND CAPACITY TO BIND SUCH ENTITY TO THIS AGREEMENT AND HEREBY DO SO. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS AGREEMENT, YOU MUST NOT USE ANY PART OF THESE MODELS.
 
 1. Design License
 
@@ -6,8 +6,7 @@ You and your sub-licensees are hereby licensed to design, manufacture, use and d
 
 Individual Models remain the intellectual property of SnapMagic Search, Inc. You shall not (and shall not permit or encourage any third party to) to do any of the following :
 
-(a) sell, assign, lease, lend, rent, issue, sublicense, make available, or otherwise distribute to any third party, or publicly perform, display or communicate, the Models (for example, by uploading Models to another website or software application);
-
+(a) sell, assign, lease, lend, rent, issue, sublicense, make available, or otherwise distribute to any third party, or publicly perform, display or communicate, the Models (for example, by uploading Models to another website or software application); 
 (b) remove, alter, or conceal, any copyright, trademark, or other proprietary rights notice or legend displayed or contained in the individual Models.
 
 For further clarity, once integrated into a schematic design or PCB layout, Models may be modified freely for the purpose of designing a circuit board. 
